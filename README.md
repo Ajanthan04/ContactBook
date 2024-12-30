@@ -7,16 +7,23 @@
 **Technologies Used**
 
 ➡Frontend Framework: React
+
 ➡UI Library: BlueprintJS
+
 ➡Programming Language: JavaScript
+
 ➡API: JSONPlaceholder API (for fetching and managing user data)
 
 **Features**
 
 ➡Fetches user data from the JSONPlaceholder API and displays it in a dynamic table.
+
 ➡Allows users to add new entries with a form.
+
 ➡Utilizes EditableText components for potential inline edits (future enhancement).
+
 ➡Real-time UI updates upon adding users.
+
 ➡Notifications for success events using BlueprintJS Toaster.
 
 **Highlights**
