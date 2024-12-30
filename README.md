@@ -1,6 +1,6 @@
 **ContactBook**
 
-**Description**
+**Description** \n
 ➡ContactBook is a simple yet functional User Management App developed using React. It showcases how to fetch, display, and manage user data using a public API. The app also allows adding new users with dynamic updates to the UI.
 
 **Technologies Used**
